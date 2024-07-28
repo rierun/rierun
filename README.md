@@ -1,4 +1,4 @@
-[![![](./assets/img/.rierun.png)](./assets/img/backiamg.webp)](https://github.com/rierun/)
+[![![](./assets/img/rierun.png)](./assets/img/rierun.webp)](https://github.com/rierun/)
 <hr />
 
 # りえるん
