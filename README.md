@@ -24,4 +24,4 @@
 ![most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rierun&theme=default)
 ![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rierun)
 
-![:name](https://count.rierun.dev/rierun?theme=moebooru)
+![:name](https://count.rierun.dev/rierun:github?theme=moebooru)
