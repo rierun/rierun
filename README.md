@@ -49,4 +49,4 @@ English
 
 <hr/>
 
-![:name](https://count.rierun.dev/rierun:github?theme=moebooru)
+[![rierun:github](https://count.rierun.dev/rierun:github)](https://count.rierun.dev/rierun:github)
