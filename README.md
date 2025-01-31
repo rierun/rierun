@@ -9,7 +9,7 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=rierun" alt="" /></p>
 
 -   霜月 りえるです!りえるんって呼んでください!
--   富山県に住んでいます! / I live in Toyama, Japan!
+-   富山県に住んでいます!
 -   主に TypeScript や Kotlin、最近は Rust でプログラムを書いています!
 -   主にフロントエンドらへんを開発しています!
 -   ぜひ仲良くしてください!
