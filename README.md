@@ -6,7 +6,7 @@
 
 日本語
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=rierun" alt="" /></p>
+<p><img align="right" width="49%" src="https://github-readme-stats-rierun-project.vercel.app/api?username=rierun" alt="" /></p>
 
 -   霜月 りえるです!りえるんって呼んでください!
 -   富山県に住んでいます!
@@ -20,9 +20,9 @@
 
 ## すてーたす～
 
-![github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rierun)
-![most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rierun&theme=default)
-![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rierun)
+![github stats](https://raw.githubusercontent.com/rierun/rierun/main/profile-summary-card-output/default/3-stats.svg)
+![gitnoare](https://github-readme-stats-rierun-project.vercel.app/api/top-langs/?username=rierun&layout=compact)
+![profile details](https://raw.githubusercontent.com/rierun/rierun/main/profile-summary-card-output/default/0-profile-details.svg)
 
 <hr/>
 
@@ -30,7 +30,7 @@
 
 English
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=rierun" alt="" /></p>
+<p><img align="right" width="49%" src="https://github-readme-stats-rierun-project.vercel.app/api?username=rierun" alt="" /></p>
 
 -   I'm Rieru Shimotsuki.(Pronounced ‘ree-eh-roo’ ‘shi-moh-tsu-key’) (he/they)! Please call me Rierun! (ree-eh-roon)
 -   I live in Toyama, Japan!
@@ -43,9 +43,9 @@ English
 
 ## Stats
 
-![github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rierun)
-![most commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rierun&theme=default)
-![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rierun)
+![github stats](https://raw.githubusercontent.com/rierun/rierun/main/profile-summary-card-output/default/3-stats.svg)
+![gitnoare](https://github-readme-stats-rierun-project.vercel.app/api/top-langs/?username=rierun&layout=compact)
+![profile details](https://raw.githubusercontent.com/rierun/rierun/main/profile-summary-card-output/default/0-profile-details.svg)
 
 <hr/>
 
